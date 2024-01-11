@@ -9,7 +9,7 @@ export default defineConfig({
     vue(),
   ],
   server:{
-    port: 10000
+    port: 8078
   },
   resolve: {
     alias: {
